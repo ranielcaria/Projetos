@@ -9,5 +9,5 @@ Welcome! Here I document my journey as a Software Engineering student, focusing 
 * 🏛️ Currently working as a Tech Intern at the City Hall.
 * 🌍 Aiming for international exchange programs and global opportunities.
 
-## 📬 Connect with me
+## 📬 Contact me
 [LinkedIn](https://www.linkedin.com/in/ranielcaria/) | [Email](ranielcaria@gmail.com)
