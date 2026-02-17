@@ -1,0 +1,7 @@
+# Ignora dependências do React
+react/real-time_system-monitor/node_modules/
+react/real-time_system-monitor/dist/
+
+# Ignora lixo do Python
+python/system-bridge/__pycache__/
+python/system-bridge/.venv/
